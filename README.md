@@ -1,5 +1,7 @@
+<br clear="both">
+
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=100&section=header&reversal=false&text=Ma.%20Janine%20F.%20Bayot&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&strokeWidth=0&animation=blink&desc=Aspiring%20Digital%20Illustrator(yet%20lazy%20asf)&descSize=10&descAlign=50&descAlignY=65&textBg=false&theme=radical"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=100&section=header&reversal=false&text=Ma.%20Janine%20F.%20Bayot&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&strokeWidth=0&animation=blink&desc=Aspiring%20Digital%20Illustrator(yet%20lazy%20asf)&descSize=11&descAlign=50&descAlignY=80&textBg=false&theme=radical"  />
 </div>
 
 ###
@@ -64,11 +66,15 @@
 ###
 
 <div align="center">
+  <img src="https://streak-stats.demolab.com?user=jaijai1019&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+<div align="center">
   <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnlkNHh3eDIwMXR4OTB3bG92ZjY4am80cWh0cTh1ZmlnaGYyYzdmdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fjCQfdxkkPKaew3CTc/giphy.gif"  />
 </div>
 
 ###
 
-<p align="center">(Absolutely ahh github profile 🙏💔)</p>
+<h5 align="center">(Absolutely ahh github profile 🙏💔)</h5>
 
 ###
