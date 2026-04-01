@@ -70,6 +70,10 @@
 </div>
 
 <div align="center">
+  <img src="https://streak-stats.demolab.com?user=jaijai1019&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+<div align="center">
   <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnlkNHh3eDIwMXR4OTB3bG92ZjY4am80cWh0cTh1ZmlnaGYyYzdmdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fjCQfdxkkPKaew3CTc/giphy.gif"  />
 </div>
 
