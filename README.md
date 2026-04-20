@@ -96,13 +96,6 @@ I'm a Computer Science student and digital illustrator. I'm on a mission to impr
 ---
 
 ## Stats
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jaijai1019&theme=shades-of-purple&no-bg=true&column=7&margin-w=15" alt="github trophies" />
-</div>
-
-<br/>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaijai1019&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=ffffff&title_color=9370DB&text_color=4B0082" height="180px" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaijai1019&theme=dracula&background=ffffff&ring=B19CD9&fire=9370DB&currStreakNum=4B0082&sideNums=4B0082&hide_border=true" height="180px" />
