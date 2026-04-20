@@ -33,17 +33,17 @@
   <table border="0">
     <tr>
       <td align="center">
-        <a href="https://sites.google.com/view/jaijai-arts">
+        <a href="https://sites.google.com/view/jaijai-arts/gallery?authuser=0">
           <img src="Jai1.jpg" width="200px" style="border-radius:15px;" alt="Art 1"/>
         </a><br/><sub><b>Work 01</b></sub>
       </td>
       <td align="center">
-        <a href="https://sites.google.com/view/jaijai-arts">
+        <a href="https://sites.google.com/view/jaijai-arts/gallery?authuser=0">
           <img src="Jai2.jpg" width="200px" style="border-radius:15px;" alt="Art 2"/>
         </a><br/><sub><b>Work 02</b></sub>
       </td>
       <td align="center">
-        <a href="https://sites.google.com/view/jaijai-arts">
+        <a href="https://sites.google.com/view/jaijai-arts/gallery?authuser=0">
           <img src="Jai4.jpg" width="200px" style="border-radius:15px;" alt="Art 3"/>
         </a><br/><sub><b>Work 03</b></sub>
       </td>
