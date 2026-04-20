@@ -44,7 +44,7 @@
       </td>
       <td align="center">
         <a href="https://sites.google.com/view/jaijai-arts">
-          <img src="Jai3.jpg" width="200px" style="border-radius:15px;" alt="Art 3"/>
+          <img src="Jai4.jpg" width="200px" style="border-radius:15px;" alt="Art 3"/>
         </a><br/><sub><b>Work 03</b></sub>
       </td>
     </tr>
