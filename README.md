@@ -23,6 +23,9 @@ I'm a Computer Science student and digital illustrator. Hoping to improve arts a
 
 * 🎨 **Art:** Digital Arts + Traditional Arts, and 2D & 3D Animations.
 * 💻 **Code:** Exploring Python, Java, and Full-Stack development.
+<img src="https://img.shields.io/badge/Student-University_of_Caloocan_city-9370DB?style=for-the-badge&logo=google-classroom&logoColor=white" />
+<img src="https://img.shields.io/badge/Course-Computer_Science-9370DB?style=for-the-badge&logo=&logoColor=white" />
+
 
 ---
 
