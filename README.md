@@ -16,7 +16,7 @@
 
 **Helloo~ I'm Jai!** A Computer Science student and a digital illustrator. Just a random student who wishes to learn how to program really well, yet is currently fighting for my life against laziness. 
 
-### 🌐 Let's be friends (or don't, I'm shy):
+### 🌐Contacts:
 
 <div align="left">
   <a href="https://www.facebook.com/majanine.fbayot/about" target="_blank">
