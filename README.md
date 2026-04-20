@@ -16,15 +16,20 @@
 </p>
 
 ## About Me
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3o0Z3ZueGZ6bm93YXQ0Z3Y0Z3ZueGZ6bm93YXQ0Z3Y0Z3ZueGZ6JmVwPXYxX2ludGVybmFs_dpZl9ieV9pZCZjdD1z/v6aOad6MfDmlS/giphy.gif" />
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXBuc2RpOGlzZ3M1eHd5OG9scjQ4YnJkdHF0anFuMXNjcDh0ZWQwZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pY8jLmZw0ElqvVeRH4/giphy.gif" />
 
-**Helloo~ I'm Jai!** A Computer Science student and digital illustrator. Hoping to improve arts and programming yet i'm dum and lazy asf
+**Helloo~ I'm Jai!** 🎀  
+I'm a Computer Science student and digital illustrator. I'm on a mission to improve both my art and my programming skills—even if I'm currently battling the urge to be lazy and feeling a bit "brain-empty" while coding!
+
+* 🎨 **Art:** Digital Arts + Traditional Arts, and 2D & 3D Animations.
+* 💻 **Code:** Exploring Python, Java, and Full-Stack development.
+
 ---
 
-## Illustration Gallery <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3o0Z3ZueGZ6bm93YXQ0Z3Y0Z3ZueGZ6bm93YXQ0Z3Y0Z3ZueGZ6JmVwPXYxX2ludGVybmFs_dpZl9ieV9pZCZjdD1z/v6aOad6MfDmlS/giphy.gif" height="50" />
+## Illustration Gallery
 
 <div align="center">
-  <p><i>Check out some of my recent works</i></p>
+  <p><i>Check out some of my works👁👄👁</i></p>
   
   <table border="0">
     <tr>
