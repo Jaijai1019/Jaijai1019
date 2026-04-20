@@ -105,8 +105,6 @@ I'm a Computer Science student and digital illustrator. I'm on a mission to impr
   <img src="https://github-readme-stats.vercel.app/api?username=jaijai1019&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=ffffff&title_color=9370DB&text_color=4B0082&icon_color=B19CD9" width="450px" />
 </div>
 
----
-
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ6bm93YXQ0Z3Y0Z3ZueGZ6bm93YXQ0Z3Y0Z3ZueGZ6bm93JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/59S06K1zB6Qe7M6h1q/giphy.gif" height="100" />
   <p style="color:#9370DB; font-family: 'Cutive Mono';"><i>(Absolutely ahh github profile 🙏💔)</i></p>
