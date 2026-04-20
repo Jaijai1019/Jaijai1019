@@ -34,17 +34,17 @@
     <tr>
       <td align="center">
         <a href="https://sites.google.com/view/jaijai-arts">
-          <img src="YOUR_IMAGE_URL_HERE" width="200px" style="border-radius:15px;" alt="Art 1"/>
+          <img src="Jai1.jpg" width="200px" style="border-radius:15px;" alt="Art 1"/>
         </a><br/><sub><b>Work 01</b></sub>
       </td>
       <td align="center">
         <a href="https://sites.google.com/view/jaijai-arts">
-          <img src="YOUR_IMAGE_URL_HERE" width="200px" style="border-radius:15px;" alt="Art 2"/>
+          <img src="Jai2.jpg" width="200px" style="border-radius:15px;" alt="Art 2"/>
         </a><br/><sub><b>Work 02</b></sub>
       </td>
       <td align="center">
         <a href="https://sites.google.com/view/jaijai-arts">
-          <img src="https://lh3.googleusercontent.com/sitesv/AA5AbUDh-rqp_t1zLrSmthDWA-Kx8Gl439HPjcfvEFGYUAH3KmPuAnhful7cbHn-emOcXWXFDtnoP7cvWBxN-Qt4f0MGLIINq5SUA8l2sIP-oI_7-lDXCQHFGcKcvkYUvUGnH1A9x0Tzebuzsr3Fp7dJZL4znIrNo2DKL7_3EHSdA3K4f5slzh_1gM2qZgqhbWqlaQILb_IZD0foPg19HpO10FlBI_BUIoElAQJFNHM=w1280" width="200px" style="border-radius:15px;" alt="Art 3"/>
+          <img src="Jai3.jpg" width="200px" style="border-radius:15px;" alt="Art 3"/>
         </a><br/><sub><b>Work 03</b></sub>
       </td>
     </tr>
