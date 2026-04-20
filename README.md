@@ -18,15 +18,11 @@
 ## About Me
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3o0Z3ZueGZ6bm93YXQ0Z3Y0Z3ZueGZ6bm93YXQ0Z3Y0Z3ZueGZ6JmVwPXYxX2ludGVybmFs_dpZl9ieV9pZCZjdD1z/v6aOad6MfDmlS/giphy.gif" />
 
-**Helloo~ I'm Jai!** A Computer Science student and digital illustrator. I'm currently on a journey to learn how to program really well, even if I'm occasionally battling laziness!
-
-* 🎨 **Art:** Loves drawing soft, cute aesthetics.
-* 💻 **Code:** Exploring Full-Stack development with React & Spring Boot.
-* ☁️ **Vibe:** "Coding one nap at a time."
-
+**Helloo~ I'm Jai!** A Computer Science student and digital illustrator. Hoping to improve arts and programming yet i'm dum and lazy asf
 ---
 
-## Illustration Gallery
+## Illustration Gallery <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3o0Z3ZueGZ6bm93YXQ0Z3Y0Z3ZueGZ6bm93YXQ0Z3Y0Z3ZueGZ6JmVwPXYxX2ludGVybmFs_dpZl9ieV9pZCZjdD1z/v6aOad6MfDmlS/giphy.gif" height="50" />
+
 <div align="center">
   <p><i>Check out some of my recent works</i></p>
   
