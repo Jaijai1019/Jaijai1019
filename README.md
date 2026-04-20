@@ -12,7 +12,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left"> About Me</h3>
 
 ###
 
@@ -39,7 +39,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left"> Language and tools</h3>
 
 ###
 
@@ -62,8 +62,6 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
-
-
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=jaijai1019&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
