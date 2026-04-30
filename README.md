@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Cutive+Mono&size=40&duration=3500&pause=1000&color=B19CD9&center=true&vCenter=true&width=500&height=50&lines=Ma.+Janine+F.+Bayot" alt="Typing SVG" />
   </a>
   <p><i>SIXXX SEEEEVEEEEENNNNNNNN </i></p>
-    <p><i>💜💜💜💜💜💜💜💜💜N </i></p>
+    <p><i>💜💜💜💜💜💜💜💜💜</i></p>
 </div>
 
 <div align="center">
