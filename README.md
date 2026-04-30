@@ -5,6 +5,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Cutive+Mono&size=40&duration=3500&pause=1000&color=B19CD9&center=true&vCenter=true&width=500&height=50&lines=Ma.+Janine+F.+Bayot" alt="Typing SVG" />
   </a>
   <p><i>SIXXX SEEEEVEEEEENNNNNNNN </i></p>
+    <p><i>💜💜💜💜💜💜💜💜💜N </i></p>
 </div>
 
 <div align="center">
@@ -18,7 +19,7 @@
 ## About Me
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXBuc2RpOGlzZ3M1eHd5OG9scjQ4YnJkdHF0anFuMXNjcDh0ZWQwZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pY8jLmZw0ElqvVeRH4/giphy.gif" />
 
-**Helloo~ I'm Jai!** 🎀  
+**Helloo~ I'm Jai!** 💜
 I'm a Computer Science student and digital illustrator. Hoping to improve arts and programming yet lazy asf. 
 
 * 🎨 **Art:** Digital Arts + Traditional Arts, and 2D & 3D Animations.
