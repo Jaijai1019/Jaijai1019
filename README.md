@@ -44,12 +44,12 @@ I'm a Computer Science student and digital illustrator. Hoping to improve arts a
       <td align="center">
         <a href="https://sites.google.com/view/jaijai-arts/gallery?authuser=0">
           <img src="Jai2.jpg" width="200px" style="border-radius:15px;" alt="Art 2"/>
-        </a><br/><sub><b>My Work 1 - Hayabusa(MLBB)</b></sub>
+        </a><br/><sub><b>My Work 2 - Hydrangea </b></sub>
       </td>
       <td align="center">
         <a href="https://sites.google.com/view/jaijai-arts/gallery?authuser=0">
           <img src="Jai4.jpg" width="200px" style="border-radius:15px;" alt="Art 3"/>
-        </a><br/><sub><b>My Work 3 - Random Illust</b></sub>
+        </a><br/><sub><b>My Work 3 - Haya(MLBB)</b></sub>
       </td>
     </tr>
   </table>
