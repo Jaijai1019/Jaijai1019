@@ -32,7 +32,7 @@ I'm a Computer Science student and digital illustrator. Hoping to improve arts a
 ## Illustration Gallery
 
 <div align="center">
-  <p><i>Check out some of my works👁👄👁</i></p>
+  <p><i>Check out some of my works👁👄👁(plzzz plzzzz plzzz i'm on my knees)</i></p>
   
   <table border="0">
     <tr>
