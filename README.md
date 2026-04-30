@@ -20,7 +20,7 @@
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXBuc2RpOGlzZ3M1eHd5OG9scjQ4YnJkdHF0anFuMXNjcDh0ZWQwZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pY8jLmZw0ElqvVeRH4/giphy.gif" />
 
 **Helloo~ I'm Jai!** 💜
-I'm a Computer Science student and digital illustrator. Hoping to improve arts and programming yet lazy asf. 
+I'm a Computer Science student and digital illustrator. Hoping to improve arts and programming (but i'm lazy asf.) 
 
 * 🎨 **Art:** Digital Arts + Traditional Arts, and 2D & 3D Animations.
 * 💻 **Code:** Exploring Python, Java, and Full-Stack development.
